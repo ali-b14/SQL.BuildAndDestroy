@@ -8,6 +8,6 @@ Country
 VALUES (
 'Jane doe',
 '57 Union St',
-'Glasgow, Scotland',
+'Glasgow', 'Scotland',
 'G13RB'
 );
