@@ -1,2 +1,2 @@
-UPDATE Student
+UPDATE Students
 SET City = 'Edinburgh';
